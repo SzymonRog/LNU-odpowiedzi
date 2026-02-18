@@ -1,9 +1,9 @@
-# LNU SQL
+# LNU Odpowiedzi
 
-Repozytorium zawiera rozwiązania zadań SQL z kursu **LNU**.
+Repozytorium zawiera rozwiązania wybranychzadań LNU
 
 
-### 🔧 Jak korzystać
+### Jak korzystać
 
 Jeśli zadanie ma **więcej niż jedno zapytanie**,
 to należy kopiować je osobno np.:
